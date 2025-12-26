@@ -1,0 +1,35 @@
+// Name: Ayushi Ujawane
+// Practical 6 - Q3: ATM Pin Authentication
+
+#include <stdio.h>
+
+int main() {
+    int pin, attempt = 0;
+    int correctPin = 1234;
+
+    while (attempt < 3) {
+        printf("Enter PIN: ");
+        scanf("%d", &pin);
+
+        if (pin == correctPin) {
+            printf("Access Granted.\n");
+            return 0;
+        } else {
+            printf("Wrong PIN. Try again.\n");
+        }
+        attempt++;
+    }
+
+    printf("Account Blocked!");
+    return 0;
+}
+
+/*
+OUTPUT:
+Enter PIN: 1111
+Wrong PIN. Try again.
+Enter PIN: 2222
+Wrong PIN. Try again.
+Enter PIN: 1234
+Access Granted.
+*/
