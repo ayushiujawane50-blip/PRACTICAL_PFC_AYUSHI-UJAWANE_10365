@@ -1,4 +1,4 @@
-// Name: Ayushi Ujawane
+// Name: Ayushi Ujawane-10365
 // Practical 8 - Q3: Print right angle triangle of stars
 
 #include <stdio.h>
