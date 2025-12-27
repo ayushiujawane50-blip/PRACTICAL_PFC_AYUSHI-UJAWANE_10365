@@ -1,4 +1,4 @@
-// Name: Ayushi Ujawane
+// Name: Ayushi Ujawane-10365
 // Practical 7 - Q3: Print alphabet pattern
 
 #include <stdio.h>
