@@ -1,4 +1,4 @@
-// Name: Ayushi Ujawane
+// Name: Ayushi Ujawane-10365
 // Practical 7 - Q2: Hourglass pattern (2n - 1)
 
 #include <stdio.h>
