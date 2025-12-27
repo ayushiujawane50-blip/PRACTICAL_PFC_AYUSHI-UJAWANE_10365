@@ -1,4 +1,4 @@
-// Name: Ayushi Ujawane
+// Name: Ayushi Ujawane-10365
 // Practical 6 - Q2: Sum of even numbers using continue
 
 #include <stdio.h>
